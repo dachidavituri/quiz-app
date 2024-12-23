@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { quiz } from "./data.ts";
-import Question from "./components/question/quesiton.tsx";
+import Question from "./components/question/Quesiton.tsx";
 import Result from "./components/result/Result.tsx";
 
 function App() {
